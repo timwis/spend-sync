@@ -5,7 +5,6 @@ name = "pypi"
 
 [packages]
 prefect = "*"
-requests = "*"
 prefect-sqlalchemy = "*"
 psycopg2 = "*"
 httpx = "*"
